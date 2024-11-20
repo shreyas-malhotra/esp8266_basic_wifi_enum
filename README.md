@@ -1,6 +1,6 @@
 # Basic WiFi Enum
 
-**Basic WiFi Enum** is a lightweight tool for scanning and enumerating nearby WiFi networks using an ESP8266/ESP32 module. It provides detailed information about each detected network, including SSID, BSSID, RSSI, channel, and encryption type. The results are displayed on the serial monitor.
+**Basic WiFi Enum** is a lightweight tool for scanning and enumerating nearby WiFi networks using an ESP8266/ESP32 module. It provides detailed information about each detected network. The results are displayed on the serial monitor.
 
 ## Features
 
